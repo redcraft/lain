@@ -6,4 +6,5 @@ Nothing special. Just my serial experiments with Docker. However, the fact that 
 List of resources to follow:
 
 1. [Docker for beginners](https://prakhar.me/docker-curriculum/) - extremly good tutorial;
-2. [Dockerfile reference](https://docs.docker.com/engine/reference/builder/#/dockerignore-file).
+2. [Dockerfile reference](https://docs.docker.com/engine/reference/builder/#/dockerignore-file);
+2. [Volumes](https://docs.docker.com/engine/reference/builder/#/dockerignore-file).
